@@ -1,6 +1,8 @@
 .cache*
 AppDevOps/
 env/
+.github/
+
 __pycache__/
 *.pyc
 *.pyo
