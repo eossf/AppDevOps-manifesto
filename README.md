@@ -1,48 +1,48 @@
-### Manifeste AppDevOps (Version – Mars 2026)
+### AppDevOps Manifesto (Version – March 2026)
 
-**Nous sommes en train de redéfinir la création d'applications**
+**We are redefining application creation**
 
-En fusionnant Produit, Développement et Intelligence Artificielle.
+By merging Product, Development, and Artificial Intelligence.
 
-**AppDevOps** relie **Product** et **Dev** pour un flux de valeur utilisateur instantané, crafté par l'IA. 
+**AppDevOps** connects **Product** and **Dev** for instant user value flow, crafted by AI.
 
-Par cette pratique, nous valorisons :
+Through this practice, we value:
 
-**La collaboration Product ↔ Dev augmentée par l'IA**  
-Réduction des silos, handoffs et specs figées  
+**AI-augmented Product ↔ Dev collaboration**
+Reduction of silos, handoffs, and frozen specs
 
-**Le "Livre de Features" partagé et vivant**  
-Réduction des backlogs isolés ou le délai des PRs 
+**The shared, living "Feature Book"**
+Reduction of isolated backlogs and PR delays
 
-**Le Feature Craft : PM spécifie → IA génère → Dev guide et contraint**  
-Le codage manuel exhaustif tend vers zero.
+**Feature Craft: PM specifies → AI generates → Dev guides and constrains**
+Exhaustive manual coding tends toward zero.
 
-**Le feedback utilisateur en boucle continue, dès la genèse de l'app**  
-Le principe d’une Story un livrable, instantanée.
+**Continuous user feedback loop, from the very inception of the app**
+The principle of a Story as an instant, deliverable unit.
 
-### Principes derrière le manifeste AppDevOps
+### Principles behind the AppDevOps Manifesto
 
-1. **Priorité absolue** : livrer de la valeur utilisateur réelle dans l'app, le plus vite possible – via Feature Craft IA qui transforme specs PM en code fonctionnel en minutes/heures, pas en semaines.
+1. **Absolute priority**: deliver real user value in the app, as fast as possible – via AI Feature Craft that transforms PM specs into functional code in minutes/hours, not weeks.
 
-2. **Accueillir le changement** : les besoins évoluent ? Le Livre de Features s'adapte en live – PM ajoute/affine, Dev injecte contraintes tech, IA régénère, le déploiement continue suit.
+2. **Welcome change**: needs evolve? The Feature Book adapts live – PM adds/refines, Dev injects tech constraints, AI regenerates, deployment continues.
 
-3. **Livraison ultra-rapide** : déployer des features craftées par IA **plusieurs fois par jour** – en s'appuyant sur la CI/CD et les principes DevOps matures depuis une dizaine d’années.
+3. **Ultra-rapid delivery**: deploy AI-crafted features **multiple times per day** – relying on CI/CD and DevOps principles mature for over a decade.
 
-4. **Product et Dev comme co-auteurs du Livre** : travail quotidien ensemble sur un artefact partagé (le "Livre de Features") – PM écrit en langage naturel, le Dev ajoute du contexte technique et de de sécurité, IA craft le code intermédiaire.
+4. **Product and Dev as co-authors of the Book**: daily work together on a shared artifact (the "Feature Book") – PM writes in natural language, Dev adds technical and security context, AI crafts the intermediate code.
 
-5. **IA comme co-équipier omniprésent** : 
-Les agents spécialisés, les skills/outils locaux, la mémoire multi-agents, les IDE connectés, les frameworks de spécifications – tous disponibles aujourd'hui. C’est l’ecosysteme IA.
+5. **AI as an omnipresent co-team-member**:
+Specialized agents, local skills/tools, multi-agent memory, connected IDEs, specification frameworks – all available today. This is the AI ecosystem.
 
-6. **Contexte entreprise maîtrisé** : chaque app s'appuie sur un "LLM Forge" interne (comme Mistral Forge) – données propriétaires, vocabulaire métier, contraintes compliance, workflows spécifiques – pour des agents fiables, alignés et souverains (privacy, no leakage).
+6. **Mastered enterprise context**: every app relies on an internal "LLM Forge" (like Mistral Forge) – proprietary data, business vocabulary, compliance constraints, specific workflows – for reliable, aligned, and sovereign agents (privacy, no leakage).
 
-7. **Mesure du progrès** : l'**app live et utilisée** + **metrics outcomes** 
+7. **Measure progress**: the **live, used app** + **outcome metrics**
 
-8. **Rythme soutenable** : IA craft le code → les humains (PM + Dev) focus sur créativité, stratégie, edge cases, architecture
+8. **Sustainable pace**: AI crafts the code → humans (PM + Dev) focus on creativity, strategy, edge cases, architecture
 
-9. **Excellence technique + IA** : bon design, clean code, scalabilité émergent de la collaboration + guidance Dev sur le craft IA – pas de dette tech malgré la vitesse.
+9. **Technical excellence + AI**: good design, clean code, scalability emerge from collaboration + Dev guidance on AI craft – no tech debt despite the speed.
 
-10. **Simplicité radicale** : maximiser le travail non fait – PM spécifie outcomes et user value, IA + Dev craft le reste. Moins de specs techniques inutiles.
+10. **Radical simplicity**: maximize work not done – PM specifies outcomes and user value, AI + Dev craft the rest. Less unnecessary technical specs.
 
-11. **Équipes auto-organisées autour de l'App** : ownership partagé PM-Dev-IA ; le meilleur "Livre de Features" émerge de cette boucle.
+11. **Self-organizing teams around the App**: shared ownership PM-Dev-AI; the best "Feature Book" emerges from this loop.
 
-12. **Amélioration continue** : rétrospectives régulières sur l'efficacité du Feature Craft, du Livre partagé, et de l'IA contextuelle – ajuster agents, prompts, Forge interne.
+12. **Continuous improvement**: regular retrospectives on Feature Craft effectiveness, the shared Book, and contextual AI – adjust agents, prompts, internal Forge.
