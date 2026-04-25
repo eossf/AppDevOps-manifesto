@@ -16,14 +16,7 @@ This plan is based on research and exploration documented in:
 
 **Core Positioning**: Trusted advisor that teaches companies to fish, not sell them fish. We don't build tools or frameworks — we transfer knowledge so companies become independent.
 
-**Target Market**: Companies with 150+ employees, having in-house PM, Dev, and Ops teams.
 
-**Revenue Model**:
-| Tier | Type | Price |
-|------|------|-------|
-| Tier 1: Foundation | Training | $400/person/day |
-| Tier 2: Practitioner | Training | $500/person/day |
-| Tier 3: Transformation | Consulting | $1,200/day |
 
 **The Flywheel**: Training → Trust → Consulting
 
