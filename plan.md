@@ -1,57 +1,80 @@
 # Vision
 
- Apporter aux entreprises le "software commoditizing"
+    Apporter aux entreprises le "software commoditizing"
 
 # Missions
 
-  1. Nous formons les entreprises a l'IA pour aborder le "software commoditizing"
-  2. Nous construisons une plateforme full DevOps "Gitlab" en Rust
+    1. Nous formons les entreprises a l'IA
+    2. Nous fournissons les ressources de conseil et délégation de personnel
+    2. Nous construisons une plateforme full DevOps "Gitlab" en Rust
 
 # Objectifs
 
-## Phase 1 Q3 2026 - initialisation - formation "foundation" - plateforme v0
-  
-Pendant cette période on met en place les outils pour les formations. La premiere version v0 de la plateforme sera co-construite avec une entreprise, et on livrera 
-une premiere version en fin de période a une entreprise pilote.
+
+
+
+## Phase 1 - Q3 2026
+
+Pendant cette période on met en place les outils pour les formations, on se focalise sur la premiere formation "foundation"
+La plateforme v0 sera analysée, avec des études relatives aux objectifs.
+
+**Plan:**
+
+1. formation
+  avoir un plan de communication pour prospecter
+  creation de la formation "foundation"
+  organiser et executer les premieres formations
+  carnet de commandes Q4
+
+2. plateforme
+  livrer une v0
+  une entreprise cobaye sans garantie, co-construction v0
+  une entreprise pilote - étude de faisabilité avec v0
+  avoir des "leads" pour la v1 et Q4
+
+3. realisation
+  2x projets pilotes
+  2x formations "Foundation"
 
 **Effectifs:**
 
 - Tech Lead (temps-plein)
 - Formateur (mi-temps)
 
-**Realisations:**
+**Etudes:**
 
-- 2 projets pilotes
-- 5 formations "Foundation"
-- 2 formations "Practionner"
-  
-| ---------- | --------------------------------- |
-| Periode    | Objectif                          |
-| ---------- | --------------------------------- |
-| Q3-2026    | 1. initialiser le projet des formations |
-|            | avoir un plan de communication    |
-|            | executer les premieres formations |
-|            | avoir un plan de commande Q4      |
-| ---------- | --------------------------------- |
-|            | 2. plateforme Rust - livrer la v0 |
-|            | trouver 1 entreprise cobaye - sans garantie, on fait la v0 avec |
-|            | trouver 1 entreprise pilote - étude de faisabilité avec v0 |
-|            | avoir des "leads" pour la v1 et Q4 |
-| ---------- | --------------------------------- |
+  Formation base (Mooc)
+  Principales fonctions v0
+  Benchmark
+  Landscape IA
+  Plan architecture plateforme
+  Inference locale SML / LLM 1B...
+  Fine tuning
 
-## Phase 2 - Q4 2026 v1 plateforme - formation "practitionner"
 
-Cette phase va permettre d'etre a l'equilibre financier sur le Q4.
+## Phase 2 - Q4 2026 
 
-**Etudes**
+Cette phase va permettre de livrer la plateforme v1, la formation "practitionner" est ajoutée au catalogue. Etre a l'equilibre financier sur Q4 sera visé.
 
-partenariats Mistral, Computing Suisse
+**Plan:**
 
-**Realisations:**
+ 1. formation
+  plan de communication
+  creation les formations "practitionner"
+  mise a jour "foundation"
+  carnet de commandes Q1-2027
 
-- 2 projets reels (
-- 5 formations "Foundation"
-- 2 formations "Practionner"
+2. plateforme
+  livrer une v1
+  une entreprise cobaye sans garantie, co-construction v0
+  une entreprise pilote - étude de faisabilité avec v0
+  carnet de commande avec des projets consulting v1
+  appels d'offre avec la v1
+
+3. realisation
+  2x projets reels
+  5x formations "Foundation"
+  2x formations "Practionner"
 
 **Effectifs:**
 
@@ -59,17 +82,13 @@ partenariats Mistral, Computing Suisse
 - Dev (temps plein - remote)
 - Formateur (mi-temps +)
 
-| ---------- | --------------------------------- | 
-| Periode    | Objectif                          |
-| ---------- | --------------------------------- |
-| Q4-2026    | 1. realiser la formation "practitionner" |
-|            | executer les formations externes |
-|            | executer les formations internes |
-| ---------- | --------------------------------- |
-|            | 2. plateforme Rust - livrer la v1 |
-|            | signer des projets consulting avec la plateforme v1 |
-|            | etablir des appels d'offres internes avec la plateforme v1 |
-| ---------- | --------------------------------- |
+**Etudes:**
+
+    forge et partenariats Mistral
+    Computing Suisse pour l'inference
+    Poursuivre benchmark, landscape,...
+
+
 
 ## Phase 3 - v3 plateforme - offre "consulting"
 
@@ -77,32 +96,11 @@ La plateforme v3 sera mise en SaaS (production Q1+2027)
 
 **Etudes**
 
-partenariats Mistral, Computing Suisse, SaaS et onprem
+  SaaS et onprem
+  Training local
 
-**Realisations:**
 
-- 2 projets reels (
-- 5 formations "Foundation"
-- 2 formations "Practionner"
-
-**Effectifs:**
-
-- Tech Lead (temps-plein)
-- Dev (temps plein - remote)
-- Formateur (mi-temps +)
-
-| ---------- | --------------------------------- | 
-| Periode    | Objectif                          |
-| ---------- | --------------------------------- |
-| Q4-2026    | 1. realiser la formation "practitionner" |
-|            | executer les formations externes |
-|            | executer les formations internes |
-| ---------- | --------------------------------- |
-|            | 2. plateforme Rust - livrer la v1 |
-|            | signer des projets consulting avec la plateforme v1 |
-|            | etablir des appels d'offres internes avec la plateforme v1 |
-| ---------- | --------------------------------- |
-
+# Cibles
 **Target Market**: 
 
 - Companies with 50+ employees, having in-house PM, Dev, and Ops teams.
