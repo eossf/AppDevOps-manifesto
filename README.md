@@ -1,9 +1,31 @@
-### Feature Craft Manifesto (Version – March 2026)
+# Feature Craft Manifesto (Version – March 2026)
 
 The `Gitlab` stack for Artificial Intelligence in Rust.
 
-**Feature Craft** allows designers, developers and users with AI 
- to build a complete product from zero to production in minutes loop, not weeks.
+## local configuration
+
+### Git
+
+```bash
+# windows
+git config --local core.sshCommand "ssh -i /c/Users/steph/.ssh/github_eossf/id_rsa"
+
+# mac / linux
+git config --local core.sshCommand "ssh -i ~/.ssh/github_eossf/id_rsa"
+```
+
+### Micromamba
+```bash
+micromamba activate
+micromamba shell init
+micromamba create -n ollama-foundation python=3.13
+micromamba activate ollama-foundation
+pip install -r requirements.txt
+```
+
+## Feature Craft
+
+Allows designers, developers and users to build a complete product from zero to production in minutes loop, not weeks.
 
 **Human role**
 
