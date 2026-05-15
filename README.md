@@ -18,9 +18,15 @@ git config --local core.sshCommand "ssh -i ~/.ssh/github_eossf/id_rsa"
 ```bash
 micromamba activate
 micromamba shell init
-micromamba create -n ollama-foundation python=3.13
-micromamba activate ollama-foundation
+micromamba create -n fcraft python=3.13
+micromamba activate fcraft
 pip install -r requirements.txt
+```
+
+### Node
+```bash
+nodeenv env        
+. env/bin/activate
 ```
 
 ## Feature Craft
